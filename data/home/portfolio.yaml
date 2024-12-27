@@ -3,11 +3,11 @@ id: "portfolio"
 
 content:
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
+    # pretitle: "Portfolio Service"
+    title: "What is the event about?"
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
 
-    buttons: 
+    buttons:
       - label: "See live"
         url: "#"
 
@@ -15,11 +15,11 @@ content:
         url: "#"
 
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
+    # pretitle: "Portfolio Service"
+    title: "Where is it being hosted?"
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
 
-    buttons: 
+    buttons:
       - label: "See live"
         url: "#"
 
@@ -27,11 +27,11 @@ content:
         url: "#"
 
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
+    # pretitle: "Portfolio Service"
+    title: "Who is out Founder?"
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
 
-    buttons: 
+    buttons:
       - label: "See live"
         url: "#"
 

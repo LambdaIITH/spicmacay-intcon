@@ -2,7 +2,7 @@ enabled: true
 id: "testimonials"
 
 content:
-  title: "Testimonials"
+  title: "Event in Media"
 
   featured:
     image: "images/testimonials-awards.png"

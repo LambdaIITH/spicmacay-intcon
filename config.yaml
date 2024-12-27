@@ -9,6 +9,8 @@ googleAnalytics: ""
 summaryLength: 20
 
 params:
+  colors:
+    mainColor: "red"
   title: "SPIC MACAY"
   description: "SPIC MACAY - 10th International Convention"
   images:
@@ -43,7 +45,7 @@ menus:
       url: "/#hero"
       weight: 1
 
-    - name: "About us"
+    - name: "About Us"
       url: "/about"
       weight: 2
 
@@ -51,8 +53,8 @@ menus:
       url: "/artists"
       weight: 3
 
-    - name: "Pricing"
-      url: "/#"
+    - name: "Event"
+      url: "/event"
       weight: 4
 
     - name: "Blog"
